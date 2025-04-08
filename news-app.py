@@ -8,7 +8,7 @@ import threading
 import io
 import os
 
-apiKey = '32afaec36d0370bb9774687c2450ba35'
+apiKey = 'YOUR_API_KEY'
 
 class NewsApp:
     def __init__(self, root):
